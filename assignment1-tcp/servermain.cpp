@@ -14,6 +14,6 @@ using namespace std;
 int main(int argc, char *argv[]){
   
   /* Do more magic */
-  
+  printf("test server");
 
 }
